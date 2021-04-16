@@ -1,14 +1,10 @@
----
-layout: page
-permalink: /CV/
-title: CV
-tagline:
-tags:
-modified: 03-01-2021
-comments: false
-image:
-  feature: texture-feature-06.jpg
----
++++
+title = "CV"
+date = 2021-04-12T02:13:50Z
+author = "Cody Markelz"
+description = "Current CV"
++++
+
 
 ### Current Affiliation
 * Accenture Global Environmental Change Fellow- [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/) __2021-present__
