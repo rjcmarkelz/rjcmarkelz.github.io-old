@@ -8,3 +8,5 @@ author = "Cody Markelz"
 ## About project
 
 A project that combines data science, modeling, biodiversity, invasive species and fire to answer questions across Californian ecosystems.
+
+![paper](/static/img/cityscape.jpg)
