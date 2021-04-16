@@ -2,7 +2,7 @@
 title = "About"
 date = 2021-04-12T02:13:50Z
 author = "Cody Markelz"
-description = "Things about this blog"
+description = ""
 +++
 
 
