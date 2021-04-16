@@ -38,8 +38,8 @@ params:
   mainSections:
     - post
   intro: true
-  headline: BIDS Global Change Blog
-  description: A data blog
+  headline: Dr. Cody Markelz
+  description: Professional learner
   github: "https://github.com/rjcmarkelz"
   # gitlab: "https://gitlab.com/XXX"
   linkedin: "https://www.linkedin.com/in/codymarkelz"
