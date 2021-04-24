@@ -1,6 +1,6 @@
 +++
 title = "Biodiversity and Fire"
-description = "How does plant biodiversity affect fires in California ecosystems?"
+description = "  How does plant biodiversity affect fires in California ecosystems?"
 date = 2021-04-13T02:13:50Z
 author = "Cody Markelz"
 +++
