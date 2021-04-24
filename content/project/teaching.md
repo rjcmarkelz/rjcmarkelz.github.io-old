@@ -1,6 +1,6 @@
 +++
 title = "Teaching  "
-description = "  Philosophy of Learning"
+description = "--Philosophy of Learning"
 date = 2020-07-13T02:13:50Z
 author = "Cody Markelz"
 +++
