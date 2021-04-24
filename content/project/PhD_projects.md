@@ -1,5 +1,5 @@
 +++
-title = "PhD"
+title = "PhD  "
 description = "  NSF Graduate Research Fellowship Projects"
 date = 2020-11-13T02:13:50Z
 author = "Cody Markelz"
