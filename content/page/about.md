@@ -7,7 +7,7 @@ description = ""
 
 
 
-I am generally interested in the complexities of interactions in nature and choose problems that require (at least) a paper and pencil to work out. I use data and mathematical models as tools to understand the beauty and complexity of nature.
+I am generally interested in the complexities of nature and choose problems that require at least a paper and pencil to work out. I use data, mathematical models, and illustrations as tools to understand the beauty and complexity of nature.
 
 
 Currently, I am an Accenture Global Environmental Change Fellow at [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/) working at the intersection between invasive species, climate change and wildfire in Californian ecosystems. My project involves developing probabilistic models that work with newly collated datasets and meta-data to work across environmental scales to understand wildfire spread and impact.

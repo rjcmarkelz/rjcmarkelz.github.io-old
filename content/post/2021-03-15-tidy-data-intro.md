@@ -17,20 +17,12 @@ library(lubridate)
 library(leaflet)
 ```
 
-{{< highlight r >}}
-var a string
-var b string
-var c string
-var d string
-{{< / highlight >}}
-
 
 I will do another post on how to make this dataset from an exercise watch at another time.
 
 Here is the base dataset we will be working with.
 ```{r}
 load("MLK-park-commute.RData")
-
 ```
 
 To do some exploratory data analysis, let's visualize some of the dataframe columns to get a feel for what the data represents. First I like to take a look at the data structure and get a feel for the variables.
