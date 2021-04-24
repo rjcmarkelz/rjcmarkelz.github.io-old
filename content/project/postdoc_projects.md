@@ -23,7 +23,7 @@ A partial realization of this work has come out of working with an undergraduate
 
 In collaboration with [Mike Covington](http://mfcovington.github.io/) (who generated the SNPs), I created a saturated genetic map for this population that can be found [here](https://github.com/rjcmarkelz/brassica_genetic_map_paper). This new map, along with a Bayesian statistical approach and my graph database all blends together into a fun data science project. I am remapping all the published traits in the database using a multi-trait approach. This data is used directly in the next two aspects of my project.
 
-[genetic_map](/static/img/genetic_map.jpg)
+![genetic_map](/static/img/genetic_map.jpg)
 
 ### 3) Trait data integration
 
@@ -39,9 +39,9 @@ Here is a preview of a canopy scale model output predicting peak canopy N conten
 
 ![physiology_simulations](/static/img/physiology_simulations.jpg)
 
-In addition, I am developing a high-throughput 3D imaging robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology.
+In addition, I am developed a high-throughput 3D imaging robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It was really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology.
 
 
 ![3D_summary](/static/img/3D_summary.jpg)
 
-{% include _vimeoPlayer.html id="108757972" %}
+{{< vimeo 108757972 >}}
