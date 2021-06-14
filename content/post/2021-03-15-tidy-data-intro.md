@@ -8,7 +8,7 @@ categories: welcome
 
 # Cycle Commuting Data
 
-For the last few years I commuted to work most days by bicycle along the [Martin Luther King Jr. Regional Shoreline Park](https://www.ebparks.org/parks/martinlking/) park in Oakland, CA. This will be a series of data science posts exploring personal data collected by my smart watch and publically available weather, nature and biodiversity data. It is my hope that this will show into the brain of how a data scientist thinks, learns, asks questions, creates models, and visualizes data from right in thier back yard.
+For the last few years I commuted to work most days by bicycle along the [Martin Luther King Jr. Regional Shoreline Park](https://www.ebparks.org/parks/martinlking/) park in Oakland, CA. This will be a series of data science posts exploring personal data collected by my smart watch and publicly available weather, nature and biodiversity data. It is my hope that this will show into the brain of how a data scientist thinks, learns, asks questions, creates models, and visualizes data from right in their back yard.
 
 We will be using the tidyverse package today to explore this dataset. Load the package.
 ```R
@@ -40,7 +40,7 @@ commute <- as_tibble(commute)
 head(commute)
 ```
 
-Passing data around and filtering instead of creating new dataframes for everything is one of the features of tidyverse that I like the best. It is a different way of thinking that becomes more intuative over time. Below I take the commute tibble pass it to filter to grab a specific single date. filter() then passes the filtered data to leaflet which plots the latitude and longitude data on an Openmaps popup in the browser.
+Passing data around and filtering instead of creating new dataframes for everything is one of the features of tidyverse that I like the best. It is a different way of thinking that becomes more intuitive over time. Below I take the commute tibble pass it to filter to grab a specific single date. filter() then passes the filtered data to leaflet which plots the latitude and longitude data on an Openmaps popup in the browser.
 
 
 ```R
