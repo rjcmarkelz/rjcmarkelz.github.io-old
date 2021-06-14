@@ -5,4 +5,5 @@ date = 2019-04-13T02:13:50Z
 author = "Cody Markelz"
 +++
 
-### Coming Soon!
+### Illustration
+Check out a few of my illustration projects [here](https://www.artstation.com/rjcmarkelz)
