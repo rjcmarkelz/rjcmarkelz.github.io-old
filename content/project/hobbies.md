@@ -6,4 +6,4 @@ author = "Cody Markelz"
 +++
 
 ### Illustration
-Check out a few of my illustration projects [here](https://www.artstation.com/rjcmarkelz)
+Check out a few of my illustration projects [**here**](https://www.artstation.com/rjcmarkelz)
