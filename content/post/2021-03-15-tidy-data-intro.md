@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction data post with cycling data"
+title:  "Cycling Data 1"
 date:   2021-03-15 09:07:38 -0800
 categories: welcome
 ---
